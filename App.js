@@ -11,7 +11,7 @@ export default function  App() {
   } */}
   return(
     <View style={styles.container}> 
-    <TextInput style={{fontSize:20}}>User Name</TextInput>
+    <TextInput style={{fontSize:20}}>enter your name</TextInput>
     <TextInput style={{fontSize:20}}>Password</TextInput>
      
     
