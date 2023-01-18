@@ -3,7 +3,7 @@ import { StatusBar, TextInput } from 'react-native';
 import { Button, StyleSheet, Text, View } from 'react-native';
 export default function  App() {
   function done(){
-    alert('completed');
+    alert('complete');
   }
   {/*} const saygoodbye= () =>
   {
